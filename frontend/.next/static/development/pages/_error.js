@@ -6467,7 +6467,7 @@ if (hadRuntime) {
 /***/ (function(module, exports, __webpack_require__) {
 
 __NEXT_REGISTER_PAGE('/_error', function() {
-module.exports = __webpack_require__(/*! C:\Users\Andrew\Projects\react\Advanced-React\sick-fits\frontend\node_modules\next\dist\pages\_error.js */"./node_modules/next/dist/pages/_error.js");
+module.exports = __webpack_require__(/*! C:\Users\Andrew\Projects\react\clothes-store\frontend\node_modules\next\dist\pages\_error.js */"./node_modules/next/dist/pages/_error.js");
 
 return { page: module.exports.default }});
 
